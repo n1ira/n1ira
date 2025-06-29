@@ -30,7 +30,7 @@
   <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 </p>
 
-- 🔭 I'm currently working as **AI/ML Practitioner at CyberBuzz, Tokyo**
+- 🔭 I'm currently working as **AI/ML Practitioner**
 - 🎵 I'm developing **transformer-based AI models for interactive music generation**
 - 🌱 I'm currently learning **advanced deep learning architectures and NLP**
 - 👯 I'm looking to collaborate on **AI/ML projects and music technology**
@@ -165,7 +165,7 @@
 
 <p align="center">
   🎵 <strong>AI Music Generation</strong> - Developing transformer-based models for interactive MIDI music composition<br>
-  🤖 <strong>CyberBuzz AI</strong> - Building simulation platforms for digital demographics analysis<br>
+  🤖 <strong>AI Research</strong> - Developing innovative machine learning solutions<br>
   📊 <strong>Market Analytics</strong> - Creating predictive tools for social media marketing strategies
 </p>
 
