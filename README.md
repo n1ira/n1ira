@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi%20👋%20I'm%20Andreas&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Practitioner%20|%20Music%20Tech%20Innovator%20|%20Python%20Expert&descAlignY=55&descAlign=50" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi%20👋%20I'm%20N1ira&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Practitioner%20|%20Music%20Tech%20Innovator%20|%20Python%20Expert&descAlignY=55&descAlign=50" alt="header"/>
 </p>
 
 <!-- Animated Typing Introduction -->
