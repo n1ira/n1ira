@@ -1,5 +1,3 @@
-# Hello there 👋
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+n1ira's+Profile!;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
