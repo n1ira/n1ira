@@ -1,11 +1,11 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi%20👋%20I'm%20n1ira&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Open%20Source%20Enthusiast%20|%20Code%20Craftsman&descAlignY=55&descAlign=50" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi%20👋%20I'm%20Andreas&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Practitioner%20|%20Music%20Tech%20Innovator%20|%20Python%20Expert&descAlignY=55&descAlign=50" alt="header"/>
 </p>
 
 <!-- Animated Typing Introduction -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!;Building+amazing+things+with+code;Always+learning%2C+always+growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!;AI/ML+Engineer+from+Tokyo;Transforming+ideas+into+intelligent+solutions" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views Counter -->
@@ -30,12 +30,13 @@
   <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 </p>
 
-- 🔭 I'm currently working on **innovative web applications**
-- 🌱 I'm currently learning **cutting-edge technologies**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **web development, JavaScript, and cloud technologies**
-- 📫 How to reach me: **fataklut@gmail.com**
-- ⚡ Fun fact: **I love turning coffee into code!**
+- 🔭 I'm currently working as **AI/ML Practitioner at CyberBuzz, Tokyo**
+- 🎵 I'm developing **transformer-based AI models for interactive music generation**
+- 🌱 I'm currently learning **advanced deep learning architectures and NLP**
+- 👯 I'm looking to collaborate on **AI/ML projects and music technology**
+- 💬 Ask me about **Python, PyTorch, Transformers, OpenAI API, and Music AI**
+- 📫 How to reach me: **andreashoug@gmail.com**
+- ⚡ Fun fact: **I speak Japanese fluently and create AI that composes music!**
 
 <br clear="both">
 
@@ -50,22 +51,27 @@
 
 ### 🚀 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,java,cpp,c&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,c,html,css&theme=dark&perline=8" />
+</p>
+
+### 🤖 AI/ML & Data Science
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,numpy,pandas,sklearn,jupyter,r&theme=dark&perline=8" />
 </p>
 
 ### 🛠️ Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,mui,redux&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,dotnet,vue,django,flask&theme=dark&perline=8" />
 </p>
 
 ### 💾 Databases & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,aws,gcp,vercel&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,supabase,aws,gcp,docker&theme=dark&perline=8" />
 </p>
 
 ### 🔧 Tools & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,vscode,postman,figma&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux,docker,kubernetes,figma&theme=dark&perline=8" />
 </p>
 
 </div>
@@ -141,35 +147,26 @@
 </h2>
 
 <p align="center">
-  <a href="mailto:fataklut@gmail.com">
+  <a href="mailto:andreashoug@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/n1ira">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/n1ira">
+  <a href="https://linkedin.com/in/andreas-houg-bl936365">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/n1ira">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/n1ira">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
-<!-- Support Section -->
+<!-- Current Work Section -->
 <h2 align="center">
-  ☕ Support My Work
+  🚀 Current Projects
 </h2>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/n1ira">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-  <a href="https://ko-fi.com/n1ira">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
-  </a>
+  🎵 <strong>AI Music Generation</strong> - Developing transformer-based models for interactive MIDI music composition<br>
+  🤖 <strong>CyberBuzz AI</strong> - Building simulation platforms for digital demographics analysis<br>
+  📊 <strong>Market Analytics</strong> - Creating predictive tools for social media marketing strategies
 </p>
 
 <!-- Random Dev Joke -->
