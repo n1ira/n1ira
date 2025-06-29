@@ -32,11 +32,8 @@
 
 - 🔭 I'm currently working as **AI/ML Practitioner**
 - 🎵 I'm developing **transformer-based AI models for interactive music generation**
-- 🌱 I'm currently learning **advanced deep learning architectures and NLP**
-- 👯 I'm looking to collaborate on **AI/ML projects and music technology**
-- 💬 Ask me about **Python, PyTorch, Transformers, OpenAI API, and Music AI**
 - 📫 How to reach me: **andreashoug@gmail.com**
-- ⚡ Fun fact: **I speak Japanese fluently and create AI that composes music!**
+- ⚡ Fun fact: **I speak Japanese, Norwegian and English fluently and create AI that composes music!**
 
 <br clear="both">
 
