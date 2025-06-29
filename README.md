@@ -30,9 +30,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-<table>
+<table style="border: none;">
 <tr>
-<td style="vertical-align: middle;">
+<td style="vertical-align: middle; border: none;">
 
 - 🔭 I'm currently working as **AI/ML Practitioner**
 - 🎵 I'm developing **transformer-based AI models for interactive music generation**
@@ -40,7 +40,7 @@
 - ⚡ Fun fact: **I speak Japanese, Norwegian and English fluently and create AI that composes music!**
 
 </td>
-<td>
+<td style="border: none;">
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 </td>
 </tr>
