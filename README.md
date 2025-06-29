@@ -27,6 +27,10 @@
 </h2>
 
 <p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n1ira&theme=radical" />
+</p>
+
+<p align="center">
   <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 </p>
 
@@ -79,10 +83,6 @@
   GitHub Analytics
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 </h2>
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n1ira&theme=radical" />
-</p>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=n1ira&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
