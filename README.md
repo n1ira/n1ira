@@ -124,22 +124,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=n1ira&theme=radical&no-frame=false&no-bg=false&margin-w=4&margin-h=4&column=7" />
 </p>
 
-<!-- Featured Projects -->
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="35">
-  Featured Projects
-  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="35">
-</h2>
-
-<p align="center">
-  <a href="https://github.com/n1ira/dartio">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=n1ira&repo=dartio&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/n1ira/n1ira">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=n1ira&repo=n1ira&theme=radical&hide_border=true" />
-  </a>
-</p>
-
 <!-- Quote of the Day -->
 <h2 align="center">
   💭 Quote of the Day
@@ -207,8 +191,4 @@
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
   <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
-</p>
-
-<p align="center">
-  <b>Thanks for visiting my profile! Have a great day! 😊</b>
 </p>
