@@ -1,107 +1,214 @@
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi%20👋%20I'm%20n1ira&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Open%20Source%20Enthusiast%20|%20Code%20Craftsman&descAlignY=55&descAlign=50" alt="header"/>
+</p>
+
+<!-- Animated Typing Introduction -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!;Building+amazing+things+with+code;Always+learning%2C+always+growing" alt="Typing SVG" />
+</p>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=n1ira&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="n1ira" />
+  <img src="https://img.shields.io/github/followers/n1ira?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://img.shields.io/github/stars/n1ira?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
+</p>
+
+<!-- About Me Section with Gradient Background -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+n1ira's+Profile!;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
-## n1ira
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  About Me
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
+
+<p align="center">
+  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+</p>
+
+- 🔭 I'm currently working on **innovative web applications**
+- 🌱 I'm currently learning **cutting-edge technologies**
+- 👯 I'm looking to collaborate on **open source projects**
+- 💬 Ask me about **web development, JavaScript, and cloud technologies**
+- 📫 How to reach me: **fataklut@gmail.com**
+- ⚡ Fun fact: **I love turning coffee into code!**
+
+<br clear="both">
+
+<!-- Tech Stack Section with Animated Icons -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
+  Tech Stack
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
+</h2>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=n1ira&label=Profile%20views&color=0e75b6&style=flat" alt="n1ira" />
-</div>
 
-### 📊 GitHub Stats
+### 🚀 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,java,cpp,c&theme=dark&perline=8" />
+</p>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n1ira&theme=github_dark" />
-</div>
+### 🛠️ Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,mui,redux&theme=dark&perline=8" />
+</p>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=n1ira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1ira&layout=compact&theme=dark&langs_count=8"/>
-</div>
+### 💾 Databases & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,aws,gcp,vercel&theme=dark&perline=8" />
+</p>
 
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=n1ira&theme=react-dark&hide_border=true&area=true" width="100%"/>
-</div>
-
-### 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=n1ira&theme=dark&hide_border=true" />
-</div>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=n1ira&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15" />
-</div>
-
-### 📊 Detailed Stats
-
-<details>
-<summary>Click to expand!</summary>
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=n1ira&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=n1ira&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=n1ira&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=n1ira&theme=github_dark" />
-</div>
-
-</details>
-
-### 🎯 Skills & Technologies
-
-<div align="center">
-  
-#### Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-#### Frameworks & Libraries
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### Databases
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🔧 Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,vscode,postman,figma&theme=dark&perline=8" />
+</p>
 
 </div>
 
-### 🌟 Featured Projects
+<!-- GitHub Stats Section with Custom Theme -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  GitHub Analytics
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+</h2>
 
-<div align="center">
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n1ira&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=n1ira&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=n1ira&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1ira&layout=compact&theme=radical&hide_border=true&langs_count=10" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=n1ira&theme=radical" />
+</p>
+
+<!-- Activity Graph -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="35">
+  Contribution Graph
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="35">
+</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=n1ira&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%"/>
+</p>
+
+<!-- Snake Animation -->
+<h2 align="center">
+  🐍 Contribution Snake
+</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/n1ira/n1ira/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/n1ira/n1ira/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/n1ira/n1ira/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<!-- Trophy Section -->
+<h2 align="center">
+  🏆 GitHub Trophies
+</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=n1ira&theme=radical&no-frame=false&no-bg=false&margin-w=4&margin-h=4&column=7" />
+</p>
+
+<!-- Featured Projects -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="35">
+  Featured Projects
+  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="35">
+</h2>
+
+<p align="center">
   <a href="https://github.com/n1ira/dartio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=n1ira&repo=dartio&theme=dark" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=n1ira&repo=dartio&theme=radical&hide_border=true" />
   </a>
-</div>
+  <a href="https://github.com/n1ira/n1ira">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=n1ira&repo=n1ira&theme=radical&hide_border=true" />
+  </a>
+</p>
 
-### 📫 Connect with me
+<!-- Quote of the Day -->
+<h2 align="center">
+  💭 Quote of the Day
+</h2>
 
-<div align="center">
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+<!-- Connect Section -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35">
+  Let's Connect
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35">
+</h2>
+
+<p align="center">
   <a href="mailto:fataklut@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/n1ira">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
+  <a href="https://linkedin.com/in/n1ira">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/n1ira">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/n1ira">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
----
+<!-- Support Section -->
+<h2 align="center">
+  ☕ Support My Work
+</h2>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</div>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/n1ira">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+  <a href="https://ko-fi.com/n1ira">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  </a>
+</p>
+
+<!-- Random Dev Joke -->
+<h2 align="center">
+  😄 Random Dev Joke
+</h2>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+</p>
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
+
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! Have a great day! 😊</b>
+</p>
