@@ -30,16 +30,19 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-<p align="center">
-  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-</p>
-
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1; padding-right: 20px;">
+    
 - 🔭 I'm currently working as **AI/ML Practitioner**
 - 🎵 I'm developing **transformer-based AI models for interactive music generation**
 - 📫 How to reach me: **andreashoug@gmail.com**
 - ⚡ Fun fact: **I speak Japanese, Norwegian and English fluently and create AI that composes music!**
 
-<br clear="both">
+  </div>
+  <div style="flex: 0 0 400px;">
+    <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+  </div>
+</div>
 
 <!-- Tech Stack Section with Animated Icons -->
 <h2 align="center">
@@ -183,6 +186,4 @@
 
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
 </p>
