@@ -165,7 +165,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=n1ira&theme=radical&no-frame=false&no-bg=false&margin-w=4&margin-h=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=n1ira&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
 </p>
 
 <!-- Quote of the Day -->
