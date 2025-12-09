@@ -159,15 +159,6 @@
   </picture>
 </p>
 
-<!-- Trophy Section -->
-<h2 align="center">
-  🏆 GitHub Trophies
-</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=n1ira&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
-</p>
-
 <!-- Quote of the Day -->
 <h2 align="center">
   💭 Quote of the Day
