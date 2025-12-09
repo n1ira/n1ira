@@ -62,7 +62,13 @@
 
 ### 🤖 AI/ML & Data Science
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,numpy,pandas,sklearn,jupyter,r&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda&theme=dark&perline=8" />
+  <br/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
 </p>
 
 ### 🛠️ Frameworks & Libraries
