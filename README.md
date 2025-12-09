@@ -126,13 +126,13 @@
 </h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=n1ira&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=n1ira&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=n1ira&theme=radical" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=n1ira&theme=radical" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1ira&layout=compact&theme=radical&hide_border=true&langs_count=10" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=n1ira&theme=radical" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=n1ira&theme=radical" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=n1ira&theme=radical" />
 </p>
 
 <!-- Activity Graph -->
