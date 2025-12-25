@@ -1,3 +1,24 @@
+<!-- 🎄 CHRISTMAS EMERGENCY BANNER 🎄 -->
+<div align="center">
+
+## 🚨 FORGOT A CHRISTMAS GIFT? 🚨
+
+<a href="https://late-gift-certificate.vercel.app">
+  <img src="https://img.shields.io/badge/🎁_INSTANT_GIFT_CERTIFICATES-Print_in_30_Seconds!-ff0000?style=for-the-badge&labelColor=darkgreen" alt="Gift Certificates" />
+</a>
+
+<a href="https://christmas-vouchers.vercel.app">
+  <img src="https://img.shields.io/badge/🎄_EXPERIENCE_VOUCHERS-Personalized_PDF!-ff0000?style=for-the-badge&labelColor=darkgreen" alt="Experience Vouchers" />
+</a>
+
+**FREE • No Sign-up • Works Offline • Print-Ready PDF**
+
+[![Create Gift Now](https://img.shields.io/badge/➡️_CREATE_YOUR_GIFT_NOW-late--gift--certificate.vercel.app-brightgreen?style=for-the-badge)](https://late-gift-certificate.vercel.app)
+
+---
+
+</div>
+
 <!-- Animated Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi%20👋%20I'm%20n1ira&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Practitioner%20|%20Music%20Tech%20Innovator%20&descAlignY=55&descAlign=50" alt="header"/>
